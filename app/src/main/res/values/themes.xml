@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Figuras" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Base application theme -->
+        name="Base.Theme.Figuras" parent="Theme.Material3.DayNight.NoActionBar">
+            <item name="colorPrimary">@color/dark_primary_color</item>
+            <item name="colorPrimaryVariant">@color/light_primary_color</item>
+            <item name="colorSecondary">@color/accent_color</item>
+            <item name="colorOnPrimary">@color/text_primary</item>
+            <item name="colorOnSecondary">@color/text_icons</item>
+            <item name="colorSurface">@color/divider_color</item>
+            <item name="colorOnSurface">@color/text_secondary</item>
+            <item name="colorError">@color/error_color</item>
+            <item name="colorOnBackground">@color/background_color</item>
+
+
+
+
+    </style>
+
+    <style name="Theme.Figuras" parent="Base.Theme.Figuras" />
+</resources>
